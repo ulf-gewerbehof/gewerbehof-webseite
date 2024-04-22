@@ -4,12 +4,14 @@ hide:
 - footer
 ---
 
+## Die 22. Gulaschprogrammiernacht im Jahr 2024 
+
+Die GPN22 wird vom 30.05 bis 02.06 2024 stattfinden. 
+Vier Tage lang erwarten euch Hacken, Gulasch, Vorträge, Tschunk, Workshops, Lounge, Mate und Spaß am Gerät.
+
 ## Gewerbehoffest
 
-[Querfunk – Freies Radio Karlsruhe](https://querfunk.de) organisiert im Sommer
-ein Gewerbehoffest mit buntem Live-Radioprogramm zum Anschauen und Mitmachen,
-verschiedenen Aktionen anderer Gewerbehofinitiativen, Infoständen, Bücherflohmarkt,
-kühlen Drinks und einem tollen Live-Line-Up mit Konzerten unterschiedlicher Karlsruher Acts.
+Querfunk – Freies Radio Karlsruhe organisiert im Sommer ein Gewerbehoffest 
 
 *Mai 23* Die Vorbereitungen zum *Sommer Sonne Querfunk – Gewerbehoffestival* im Jahr 2023 laufen auf Hochtouren.
 
