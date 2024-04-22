@@ -7,7 +7,7 @@ hide:
 ## Die 22. Gulaschprogrammiernacht im Jahr 2024 
 
 Die GPN22 wird vom 30.05 bis 02.06 2024 stattfinden. 
-Vier Tage lang erwarten euch Hacken, Gulasch, Vorträge, Tschunk, Workshops, Lounge, Mate und Spaß am Gerät.
+Vier Tage lang gibt es Hacken, Gulasch, Vorträge, Tschunk, Workshops, Lounge, Mate und Spaß am Gerät.
 
 ## Gewerbehoffest
 
