@@ -13,7 +13,7 @@ Vier Tage lang erwarten euch Hacken, Gulasch, Vorträge, Tschunk, Workshops, Lou
 
 Querfunk – Freies Radio Karlsruhe organisiert im Sommer ein Gewerbehoffest 
 
-*Mai 23* Die Vorbereitungen zum *Sommer Sonne Querfunk – Gewerbehoffestival* im Jahr 2023 laufen auf Hochtouren.
+*Mai 23* Sommer Sonne Querfunk – Gewerbehoffestival im Sommer 2023. 
 
 ## Deserteursdenkmal
 
